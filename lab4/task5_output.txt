@@ -1,0 +1,2 @@
+Time : 4
+Shortest path: 1 --> 10 --> 4 --> 2 --> 5
